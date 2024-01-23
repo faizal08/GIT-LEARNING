@@ -3,3 +3,6 @@ Hello, How are you
 This is the change i want in feature branch
 
 conflict from master side
+
+conflict from feature branch
+
